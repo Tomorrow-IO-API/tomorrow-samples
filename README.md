@@ -5,7 +5,7 @@ Tomorrow.io Quickstart
 A collection of quickstart samples showcasing some typical uses of the Tomorrow.io APIs in various environments. 
 
 ### What's Included ###
-* [Log Realtime Timeline in Google Sheets using an Apps Script]()
+* [Log Current Timeline in Google Sheets using an Apps Script](./logCurrentTimeline.gs)
 
 ### Usage ###
 To learn how to get started with Tomorrow.io, head over to our [documentation website](https://docs.tomorrow.io) where you will also find guides utilizing these samples or snippets.
